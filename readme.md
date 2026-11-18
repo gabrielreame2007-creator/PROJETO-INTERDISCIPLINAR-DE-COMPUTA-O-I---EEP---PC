@@ -23,8 +23,9 @@ Este repositório tem o **site institucional** do projeto. Os objetivos são:
 ## Integrantes do grupo
 
 | Nome |
-- Gabriel Calderan Reame
-- Gabriel Henrique Barbosa Modica
+|------|
+| Gabriel Calderan Reame |
+| Gabriel Henrique Barbosa Modica |
 
 ## Tecnologias utilizadas
 
@@ -54,13 +55,13 @@ O site é **estático**. Ele não precisa de banco de dados, servidor de aplica�
 Clone o repositório ou baixe os arquivos do projeto e extraia-os para uma pasta em seu computador.
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/gabrielreame2007-creator/PROJETO-INTERDISCIPLINAR-DE-COMPUTA-O-I---EEP---PC.git
 ```
 
 Entre na pasta do projeto:
 
 ```bash
-cd "Projeto Interdisciplinar-PC-def"
+cd PROJETO-INTERDISCIPLINAR-DE-COMPUTA-O-I---EEP---PC
 ```
 
 Se o repositório já tiver sido baixado como ZIP, basta extrair a pasta e abri-la no editor de código.
