@@ -120,9 +120,9 @@ Não há processo de compilação ou instalação de pacotes. Para personalizar 
 
 ## Imagens e exemplos de funcionamento
 
-| Tela Inicial | Home |
+| Tela Inicial | História |
 |---|---|
-| ![Tela Inicial](assets/prints/tela-inicial.PNG) | ![Históiria](assets/prints/historia.PNG) |
+| ![Tela Inicial](assets/prints/tela-inicial.PNG) | ![História](assets/prints/historia.PNG) |
 
 | Galeria | Parceiros |
 |---|---|
