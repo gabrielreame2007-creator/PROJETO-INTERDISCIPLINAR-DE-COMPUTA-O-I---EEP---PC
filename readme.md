@@ -115,17 +115,26 @@ Não há processo de compilação ou instalação de pacotes. Para personalizar 
     ├── doacoes/        # Imagens das cotas (R$10, R$50, R$100)
     ├── galeria/        # Fotos dos eventos, em subpastas
     └── parceiros/      # Logos dos parceiros
+    └── prints/         # Prints 
 ```
 
 ## Imagens e exemplos de funcionamento
 
-| Lançamento do projeto | Em ação |
+| Tela Inicial | Home |
 |---|---|
-| ![Lançamento do projeto](assets/lanc.projeto.jpg) | ![Pernas Caipiras em corrida](assets/imagem%201.jpg) |
+| ![Tela Inicial](assets/prints/tela-inicial.PNG) | ![Históiria](assets/prints/historia.PNG) |
 
-| Galeria: Café Solidário | Cotas de doação |
+| Galeria | Parceiros |
 |---|---|
-| ![Café Solidário](assets/galeria/cafe-solidario/01.jpg) | ![Cota de R$ 50](assets/doacoes/d50.png) |
+| ![Albuns Galeria](assets/prints/galerias.PNG) | ![Parcerias](assets/prints/Parceiros.PNG) |
+
+| Cotas | Carrinho |
+|---|---|
+| ![Cotas](assets/prints/Cotas.PNG) | ![Carrinho](assets/prints/Carrinho.PNG) |
+
+| Formulário | WhatsApp |
+|---|---|
+| ![Fomulário](assets/prints/Formulario.PNG) | ![WhatsApp](assets/prints/f-whatsApp.PNG) |
 
 ### Exemplo: cadastro de condutor
 1. Acesse **Participe → Cadastro** e preencha o formulário.
@@ -146,6 +155,11 @@ Não há processo de compilação ou instalação de pacotes. Para personalizar 
    2x Cota R$ 50 (R$ 50,00)
    Total: R$ 100,00
    ```
+
+### Responsavel pelo repositório e reame.md:
+| Nome |
+|------|
+| Gabriel Calderan Reame |
 
 ---
 <sub>Projeto desenvolvido para fins acadêmicos (Projeto Interdisciplinar).</sub>
